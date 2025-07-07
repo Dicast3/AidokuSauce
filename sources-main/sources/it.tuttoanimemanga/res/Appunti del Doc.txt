@@ -1,0 +1,61 @@
+--- Manifest e Script
+
+https://tuttoanimemanga.net/js/lang/it.js
+https://tuttoanimemanga.net/manifest.json
+
+--- Note
+
+I generi sono fatti con il culo, porcodio hanno 3 duplicati a testa per un unico genere, per questo mi sono ridotto ad includere negli ids altre liste, cosa che non credo sia supportata da Aidoku o dallo script che filtra per lui i Tags. 
+
+Altra cosa simpatica: Nemmeno lo status è esente da questo lavoro becero. abbiamo sia la versione Italiana, sia quella Inglese di Droppato e Concluso, il tutto in un caos di tag che non finisce più.
+
+--- Generi (tra parentesi ho incluso la versione ottenuta cliccando sul link, -in genere l'url legato al tag è tutto minuscolo)
+
+Action
+Azione
+Adventure
+Avventura
+Autobiographic
+Comedy
+Commedia
+Crime
+Demons
+Drama
+Drammatico
+Drama. Sci-fi (drama-sci-fi)
+Ecchi
+Fantasy
+Harem
+Historical
+Storico
+Horroe
+Horror
+Isekai
+Mahou Shojo
+Martial Arts
+Mecha
+Mistery
+Mystery
+Parody
+Philosophical
+Police
+Psychological
+Romance
+Romantico
+Samurai
+School
+school life
+Sentimentale
+Slice of Life
+Sports
+Spokon
+Supernatural
+Sovrannaturale
+Super Powers
+Suspanse
+Thriller
+Tragedy
+Sci-Fi
+Fantascienza
+Raccolta
+Vampire
