@@ -1,3 +1,0 @@
-ja.mangamura come template
-
-per buildare ho usato il comando "" aidoku package "C:\Users\AMONGUSSS\AMONGUS\AMOGUS\AMO\GUS\sources\it.tuttoanimemanga" ""
