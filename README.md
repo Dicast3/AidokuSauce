@@ -6,5 +6,5 @@
 
 ##### Reminder per chi sviluppa (me)
 
-mi raccomando, leggi questo se è più di una settimana che non lavori ai moduli
-https://github.com/Dicast3/AidokuSauce/blob/main/Reminder
+Leggi questo se è più di una settimana che non lavori ai moduli
+(https://github.com/Dicast3/AidokuSauce/blob/main/Reminder)
