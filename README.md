@@ -8,5 +8,4 @@ Tra poco droppo tutti i siti di cui mi voglio occupare fratellì
 ![](Non-dev/Link-placeholder.png)
 
 ---
-###### Reminder per chi sviluppa (me)
 <sub> <sub> [Leggi questo se è più di una settimana che non lavori ai moduli](Non-dev/Reminder.md) </sub> </sub>
