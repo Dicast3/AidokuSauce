@@ -1,10 +1,8 @@
 # AidokuSauce
 La mia personalissima repo Italiana con Jack e squillo di lusso dedicata sui moduli Aidoku 
 
----
 ### Roadmap
 
----
 ### Aggiungere la fonte
 Qui è dove metterei il link per scaricare le mie fonti
 se solo ne avessi una
