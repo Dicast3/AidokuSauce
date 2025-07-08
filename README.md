@@ -1,5 +1,5 @@
 # <img src="Non-dev/Aidoku-Icon.png" width="25" height="25" alt="Sized image" /> AidokuSauce <img src="Non-dev/Aidoku-Icon.png" width="25" height="25" alt="Sized image" />
-La mia personalissima repo Italiana con Jack e squillo di lusso dedicata sui moduli Aidoku 
+La mia personalissima repo Italiana con Jack e squillo di lusso con moduli Aidoku possibilmente sviluppati da me
 
 ### Roadmap
 Tra poco droppo tutti i siti di cui mi voglio occupare fratellì
