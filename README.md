@@ -1,4 +1,4 @@
-# AidokuSauce <img src="Non-dev/Aidoku-Icon.png" width="20" height="20" alt="Sized image" />
+# AidokuSauce <img src="Non-dev/Aidoku-Icon.png" width="30" height="30" alt="Sized image" />
 La mia personalissima repo Italiana con Jack e squillo di lusso dedicata sui moduli Aidoku 
 
 ### Roadmap
