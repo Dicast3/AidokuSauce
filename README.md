@@ -1,4 +1,4 @@
-# AidokuSauce <sub> <sub> <sub> <sub> <sub> ![](Non-dev/Aidoku-Icon.png) </sub> </sub> </sub> </sub> </sub>
+# AidokuSauce <img src="Non-dev/Aidoku-Icon.png" width="20" height="20" alt="Sized image" />
 La mia personalissima repo Italiana con Jack e squillo di lusso dedicata sui moduli Aidoku 
 
 ### Roadmap
