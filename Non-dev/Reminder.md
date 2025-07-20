@@ -9,3 +9,8 @@ Mi correggo riguardo a quanto detto prima: è proprio disincentivato. Se si vuol
 ### In poche parole
 
 Significa che non posso usare le api dei siti (se le trovo).
+
+---
+
+Nuovo aggiornamento: a quanto pare il sito a cui sto lavorando non carica l'html normalmente, quindi tutti i contenuti sono nascosti se si prova a usare get nello script.
+Ho chiesto al boss e mi ha detto che va bene fare script che sfruttano le api, si può fare con serde.
