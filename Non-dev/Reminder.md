@@ -8,3 +8,7 @@ In poche parole:
 
 Super-super riassunto:
 Mi è stato confermato che posso usare serde-json per lavorare direttamente con le api.
+
+---
+
+p.s. se non sai come implementare serde vai a leggere le crates di Aidoku
