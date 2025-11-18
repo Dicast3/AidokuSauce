@@ -2,7 +2,7 @@
 La mia personalissima repo Italiana con moduli Aidoku possibilmente sviluppati da me
 
 ### Roadmap
-Tra poco droppo tutti i siti di cui mi voglio occupare fratellì
+Obiettivo 1: Template per "pizza-reader"
 
 ### Aggiungere la fonte
 ![](Non-dev/Link-placeholder.png)
