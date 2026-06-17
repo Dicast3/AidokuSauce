@@ -1,0 +1,87 @@
+{
+  "name": "Source List",
+  "sources": [
+    {
+      "id": "it.HastaTeam",
+      "name": "Hasta Team",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://reader.hastateam.com"
+    }
+  ],
+[
+    {
+      "id": "it.DTT-Hasta",
+      "name": "DTT Reader",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://ddt.hastateam.com"
+    }
+  ],
+[
+    {
+      "id": "it.Phoenix",
+      "name": "Phoenix Scans",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://www.phoenixscans.com"
+    }
+  ],
+[
+    {
+      "id": "it.LupiTeam",
+      "name": "Lupi Team",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://lupiteam.net"
+    }
+  ],
+[
+    {
+      "id": "it.GTO",
+      "name": "GTO - The Great Site",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://reader.gtothegreatsite.net"
+    }
+  ],
+[
+    {
+      "id": "it.TAM",
+      "name": "Tutto Anime e Manga",
+      "version": 1,
+      "iconURL": "0",
+      "downloadURL": "0",
+      "languages": [
+        "it"
+      ],
+      "contentRating": 1,
+      "baseURL": "https://tuttoanimemanga.net"
+    }
+  ]
+}
