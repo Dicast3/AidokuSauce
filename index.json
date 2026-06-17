@@ -5,8 +5,8 @@
       "id": "it.HastaTeam",
       "name": "Hasta Team",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.HastaTeam/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.HastaTeam/package.aix",
       "languages": [
         "it"
       ],
@@ -19,8 +19,8 @@
       "id": "it.DTT-Hasta",
       "name": "DTT Reader",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.DTT-Hasta/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.DTT-Hasta/package.aix",
       "languages": [
         "it"
       ],
@@ -33,8 +33,8 @@
       "id": "it.Phoenix",
       "name": "Phoenix Scans",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.Phoenix/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.Phoenix/package.aix",
       "languages": [
         "it"
       ],
@@ -47,8 +47,8 @@
       "id": "it.LupiTeam",
       "name": "Lupi Team",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.LupiTeam/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.LupiTeam/package.aix",
       "languages": [
         "it"
       ],
@@ -61,8 +61,8 @@
       "id": "it.GTO",
       "name": "GTO - The Great Site",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.GTO/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.GTO/package.aix",
       "languages": [
         "it"
       ],
@@ -75,8 +75,8 @@
       "id": "it.TAM",
       "name": "Tutto Anime e Manga",
       "version": 1,
-      "iconURL": "0",
-      "downloadURL": "0",
+      "iconURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.TAM/res/icon.png",
+      "downloadURL": "https://github.com/Dicast3/AidokuSauce/raw/refs/heads/main/sources/it.GTO/package.aix",
       "languages": [
         "it"
       ],
