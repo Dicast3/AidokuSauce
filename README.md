@@ -3,7 +3,7 @@ La mia personalissima repo Italiana con un bel template ~~rubato~~ preso in pres
 
 ---
 
-Copia e incolla questo linlk nelle fonti
+Copia e incolla questo link nelle fonti
 
 '''
 https://raw.githubusercontent.com/Dicast3/AidokuSauce/refs/heads/main/index.min.json
