@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "it.Phoenix",
+		"name": "Phoenix Scans",
+		"version": 1,
+		"url": "https://www.phoenixscans.com/",
+		"contentRating": 1,
+		"languages": [
+			"it"
+		]
+	}
+}
