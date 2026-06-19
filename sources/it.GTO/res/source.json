@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "it.GTO",
+		"name": "GTO - The Great Site",
+		"version": 1,
+		"url": "https://reader.gtothegreatsite.net",
+		"contentRating": 1,
+		"languages": [
+			"it"
+		]
+	}
+}
