@@ -6,13 +6,11 @@ Ho modificato un paio di cose rispetto al template originale in`'models` e in `i
 ---
 
 ## Cose che devo correggere:
-
 Nei filtri, al posto di "Autore" correggere con "Valutazione"
 
 ---
 
 ## Installazione
-
 Copia e incolla questo link nelle fonti
 
 https://raw.githubusercontent.com/Dicast3/AidokuSauce/refs/heads/main/index.min.json
