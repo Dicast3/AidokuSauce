@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "it.DTT-Hasta",
+		"name": "DTT Reader",
+		"version": 1,
+		"url": "https://ddt.hastateam.com/",
+		"contentRating": 1,
+		"languages": [
+			"it"
+		]
+	}
+}
