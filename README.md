@@ -9,7 +9,7 @@ Ho modificato un paio di cose rispetto al template originale in `models` e in `i
 ### Immediate
 * Nei filtri, al posto di "Autore" correggere con "Valutazione"
 * Fare in modo che i filtri non si rompano
-* Aggiungere altri filtri
+* Aggiungere filtri STATUS (concluso // in corso // droppato)
 
 ### Futuro
 * Realizzare il modulo per JJTR
