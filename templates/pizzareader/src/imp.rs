@@ -15,12 +15,19 @@ pub trait Impl {
 
     fn to_manga_status(&self, status: &str) -> aidoku::MangaStatus {
         match status {
-            "In corso" | "On going" => aidoku::MangaStatus::Ongoing,
-            "Completato" | "Completed" => aidoku::MangaStatus::Completed,
-            "Concluso" | "Completed" => aidoku::MangaStatus::Completed,
+            "In corso"
+            | "In corso (bisettimanale)"
+            | "In corso (quindicinale)"
+            | "In corso (settimanale)"
+            | "In corso (cadenza irregolare)"
+            | "In corso (irregolare)"
+            | "In corso (mensile)"
+            | "On going" => aidoku::MangaStatus::Ongoing,
+            "Completato" | "Completed" | "Concluso" => aidoku::MangaStatus::Completed,
             "Droppato" | "Cancelled" => aidoku::MangaStatus::Cancelled,
-            "In pausa" | "Hiatus" => aidoku::MangaStatus::Hiatus,
-            "Sospeso" | "Hiatus" => aidoku::MangaStatus::Hiatus,
+            "In pausa" | "In corso (in pausa)" | "Sospeso" | "Hiatus" => {
+                aidoku::MangaStatus::Hiatus
+            }
             _ => aidoku::MangaStatus::Unknown,
         }
     }
