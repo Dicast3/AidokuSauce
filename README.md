@@ -7,15 +7,15 @@ Ho modificato un paio di cose rispetto al template originale in `models` e in `i
 ## Roadmap
 
 ### Immediate
-* Nei filtri, al posto di "Autore" correggere con "Valutazione"
-* Fare in modo che i filtri non si rompano
-* Aggiungere filtri STATUS (concluso // in corso // droppato)
+- [x] Nei filtri, al posto di "Autore" correggere con "Valutazione"
+- [] Fare in modo che i filtri non si rompano
+- [x] Aggiungere filtri STATUS (concluso // in corso // droppato)
 
 ### Futuro
-* Realizzare il modulo per JJTR
-* Realizzare il modulo per Scanduzioni
-* Realizzare il modulo per Digital Team
-* Realizzare il modulo per AGC
+- [] Realizzare il modulo per JJTR
+- [] Realizzare il modulo per Scanduzioni
+- [] Realizzare il modulo per Digital Team
+- [] Realizzare il modulo per AGC
 
 
 ## Installazione
