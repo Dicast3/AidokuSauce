@@ -1,0 +1,30 @@
+#![no_std]
+use aidoku::{Source, Viewer, prelude::*};
+use madara::{Impl, Madara, Params};
+
+const BASE_URL: &str = "https://manga.ramaorientalfansub.live/";
+
+struct rama;
+
+impl Impl for rama {
+    fn new() -> Self {
+        Self
+    }
+
+    fn params(&self) -> Params {
+        Params {
+            base_url: BASE_URL.into(),
+            source_path: "read".into(),
+            default_viewer: Viewer::Webtoon,
+            datetime_format: "dd MMMM yyyy".into(),
+            ..Default::default()
+        }
+    }
+}
+
+register_source!(
+    Madara<rama>,
+    DeepLinkHandler,
+    MigrationHandler,
+    ImageRequestProvider
+);

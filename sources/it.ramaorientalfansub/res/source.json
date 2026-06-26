@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "it.ramaorientalfansub",
+		"name": "Rama Oriental Fansub",
+		"version": 1,
+		"url": "https://manga.ramaorientalfansub.live/",
+		"contentRating": 1,
+		"languages": [
+			"it"
+		]
+	}
+}
