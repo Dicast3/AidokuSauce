@@ -15,12 +15,12 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 - [x] Fare in modo che si veda lo status per tutti i manga, se presente
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
-### Futuro
+### Futuro (priorità)
+- [ ] Aggiustare il modulo per Rama Oriental Fansub (non si caricano i capitoli)
 - [ ] Realizzare il modulo per JJTR
 - [ ] Realizzare il modulo per Scanduzioni
 - [ ] Realizzare il modulo per Digital Team
 - [ ] Realizzare il modulo per AGC
-- [x] Realizzare il modulo per Rama Oriental Fansub
 
 
 ## Installazione
