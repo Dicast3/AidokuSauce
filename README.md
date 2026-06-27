@@ -16,7 +16,7 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
 ### Futuro (priorità)
-- [ ] Aggiustare il modulo per Rama Oriental Fansub (non si caricano i capitoli)
+- [ ] Aggiustare il modulo per Rama Oriental Fansub (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
 - [ ] Realizzare il modulo per JJTR
 - [ ] Realizzare il modulo per Scanduzioni
 - [ ] Realizzare il modulo per Digital Team
