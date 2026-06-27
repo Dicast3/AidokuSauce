@@ -16,17 +16,16 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
 ### Futuro (Madara e Mangathemesia based)
-- [x] Realizzare il modulo per Rama Oriental Fansub
-- [ ] Aggiustare il modulo per Rama Oriental Fansub (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
-
-🍕🍕🍕
-- [ ] Realizzare il modulo per AineTeam
-
-🍕🍕🍕
-- [x] Realizzare il modulo per Scanduzioni
+#### Rama Oriental Fansub
+- [x] Realizzare il modulo
+- [ ] Aggiustare il modulo (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+#### Aine team
+- [ ] Realizzare il modulo
+#### Scanduzioni
+- [x] Realizzare il modulo
 - [ ] Mettere a posto l'ordine dei capitoli (l'ordine di lettura viene visualizzato al contrario nel migliore dei casi)
 - [ ] Aggiornare i filtri per genere (devo prendere gli id dal sito per ogni tag (id:1056 name:azione), una cosa di questo tipo)
-- [ ] Modificare la home per Scanduzioni e aggiungere filtri genere
+- [ ] Modificare la home e aggiungere filtri genere
 
 ### Futuro (altri)
 - [ ] Realizzare il modulo per JJTR
