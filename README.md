@@ -24,6 +24,7 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 
 🍕🍕🍕
 - [x] Realizzare il modulo per Scanduzioni
+- [ ] Mettere a posto l'ordine dei capitoli (l'ordine di lettura viene visualizzato al contrario nel migliore dei casi)
 - [ ] Aggiornare i filtri per genere (devo prendere gli id dal sito per ogni tag (id:1056 name:azione), una cosa di questo tipo)
 - [ ] Modificare la home per Scanduzioni e aggiungere filtri genere
 
