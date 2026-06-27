@@ -1,0 +1,21 @@
+[
+	{
+		"type": "select",
+		"id": "status",
+		"title": "Status",
+		"options": ["Tutto", "In corso", "Completato", "In pausa", "Annullato"],
+		"ids": ["", "ongoing", "completed", "hiatus", "dropped"]
+	},
+	{
+		"type": "select",
+		"id": "type",
+		"title": "Tipo",
+		"options": ["Tutto", "Manga", "Manhwa", "Manhua", "Comic", "Novel"]
+	},
+	{
+		"type": "sort",
+		"id": "order",
+		"canAscend": false,
+		"options": ["Default", "A-Z", "Z-A", "Aggiornati", "Ultimi Aggiunti", "Popolari"]
+	}
+]
