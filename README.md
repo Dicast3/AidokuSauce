@@ -9,17 +9,23 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 
 ## Roadmap
 
-### Immediate (Pizzareader)
+### Futuro (Pizzareader based)
 - [x] Nei filtri, al posto di "Autore" correggere con "Valutazione"
 - [ ] Fare in modo che i filtri di genere non si rompano
 - [x] Fare in modo che si veda lo status per tutti i manga, se presente
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
-### Futuro (priorità)
+### Futuro (Madara e Mangathemesia based)
+- [x] Realizzare il modulo per Rama Oriental Fansub
 - [ ] Aggiustare il modulo per Rama Oriental Fansub (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+
 - [ ] Realizzare il modulo per JJTR
-- [ ] Realizzare il modulo per Scanduzioni
+
+- [x] Realizzare il modulo per Scanduzioni
+- [ ] Modificare la home per Scanduzioni e aggiungere filtri genere
+
 - [ ] Realizzare il modulo per Digital Team
+
 - [ ] Realizzare il modulo per AGC
 
 
