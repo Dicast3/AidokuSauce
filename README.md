@@ -18,8 +18,10 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 ### Futuro (Madara e Mangathemesia based)
 - [x] Realizzare il modulo per Rama Oriental Fansub
 - [ ] Aggiustare il modulo per Rama Oriental Fansub (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+
 ooo
 - [ ] Realizzare il modulo per AineTeam
+
 ooo
 - [x] Realizzare il modulo per Scanduzioni
 - [ ] Modificare la home per Scanduzioni e aggiungere filtri genere
