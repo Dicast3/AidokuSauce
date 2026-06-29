@@ -35,6 +35,13 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 
 ## Installazione
 
-Copia e incolla questo link nelle fonti di Aidoku
+Copia e incolla questi link nelle fonti di Aidoku
+
+Stabile (per tutti)
 
 https://raw.githubusercontent.com/Dicast3/AidokuSauce/refs/heads/main/index.min.json
+
+Sperimentale (per addetti ai lavori)
+
+https://raw.githubusercontent.com/Dicast3/AidokuSauce/refs/heads/main/index2.min.json
+
