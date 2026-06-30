@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "it.shinobiscans",
+		"name": "ShinobiScans",
+		"version": 1,
+		"url": "https://shinobiscans.com",
+		"contentRating": 1,
+		"languages": [
+			"it"
+		]
+	}
+}
