@@ -22,7 +22,7 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 
 Note per Shinobiscans:
 Ogni volta che viene fatta una richiesta ad una pagina non presente sul sito l'host blocca tutti gli accessi per 24 ore, per questo motivo ho deciso di mantenere i filtri e la fonte all'essenziale, se funziona non lo toccare.
-Dovrei anche decidere se includere (e in quel caso implementare un modo per renderizzarle su Aidoku) le novel(s), per il momento rimarranno lì nella fonte a dare errori, non bloccano il normale funzionamento della fonte
+Dovrei anche decidere se includere <sub>(e in quel caso implementare un modo per renderizzarle su Aidoku)</sub> le novel(s), per il momento rimarranno lì nella fonte a dare errori, non bloccano il normale funzionamento della fonte
 #### BeyondTheAtaraxia
 - [ ] Realizzare il modulo
 - [ ] Realizzare filtri
