@@ -22,6 +22,7 @@ Ho appena scoperto che formattando un qualsiasi capitolo aggiungendo alla fine d
 #### ShinobiScans
 - [x] Realizzare il modulo
 - [x] Realizzare filtri
+- [ ] Capire cosa triggera il blocco
 
 Note per Shinobiscans:
 Ogni volta che viene fatta una richiesta ad una pagina non presente sul sito l'host blocca tutti gli accessi per 24 ore, per questo motivo ho deciso di mantenere i filtri e la fonte all'essenziale, se funziona non lo toccare.
