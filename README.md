@@ -16,6 +16,14 @@ Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi m
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
 ### Futuro (Madara e Mangathemesia based)
+#### ShinobiScans
+- [x] Realizzare il modulo
+- [x] Realizzare filtri
+Note per Shinobiscans:
+Ogni volta che viene fatta una richiesta ad una pagina non presente sul sito l'host blocca tutti gli accessi per 24 ore, per questo motivo ho deciso di mantenere i filtri e la fonte all'essenziale, se funziona non lo toccare.
+#### BeyondTheAtaraxia
+- [ ] Realizzare il modulo
+- [ ] Realizzare filtri
 #### Rama Oriental Fansub
 - [x] Realizzare il modulo
 - [ ] Aggiustare il modulo (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
