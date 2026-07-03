@@ -18,7 +18,7 @@ Per questo motivo ho creato una sorta di Faq, dove rispondo ad alcune domande ch
 - No, prossima domanda.
 ---
 ### Domanda 1
-- C'è il rischio che tu voglia guadagnare da questo lavoro, vuoi guadagnare da questo lavoro?
+- C'è il rischio che tu voglia guadagnare da questo lavoro/Vuoi guadagnare da questo lavoro?
 ### Risposta
 - No, ad ogni modo se qualcuno volesse farmi da sugar-daddy/mommy è ben accett*.
 ---
