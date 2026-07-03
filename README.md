@@ -27,14 +27,17 @@ Ho appena scoperto che formattando un qualsiasi capitolo aggiungendo alla fine d
 Note per Shinobiscans:
 Ogni volta che viene fatta una richiesta ad una pagina non presente sul sito l'host blocca tutti gli accessi per 24 ore, per questo motivo ho deciso di mantenere i filtri e la fonte all'essenziale, se funziona non lo toccare.
 Dovrei anche decidere se includere <sub>(e in quel caso implementare un modo per renderizzarle su Aidoku)</sub> le novel(s), per il momento rimarranno lì nella fonte a dare errori, non bloccano il normale funzionamento della fonte
+
 #### BeyondTheAtaraxia
-- [ ] Realizzare il modulo
-- [ ] Realizzare filtri
+- [x] Realizzare il modulo
+- [x] Realizzare filtri
 #### Rama Oriental Fansub
 - [x] Realizzare il modulo
-- [ ] Aggiustare il modulo (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+- [x] Aggiustare il modulo (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+#### Studiocomix
+- [ ] Realizzare il modulo (login necessario non implementato su Madara)
 #### Aine team
-- [ ] Realizzare il modulo
+- [ ] Realizzare il modulo (login necessario non implementato su Mangathemesia)
 #### Scanduzioni
 - [x] Realizzare il modulo
 - [ ] Mettere a posto l'ordine dei capitoli (l'ordine di lettura viene visualizzato al contrario nel migliore dei casi)
