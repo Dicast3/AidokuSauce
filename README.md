@@ -1,5 +1,7 @@
 # 🍕AidokuSauce🍕
 
+Prima di cominciare, ecco la risposta alla domanda che non si faceva nessuno a parte il sottoscritto, per correttezza vi rendo partecipi: [ai Team sta bene questa roba?](https://github.com/Dicast3/AidokuSauce/blob/main/Non-dev/Moralit%C3%A0.md)
+
 La mia personalissima repo con solo fonti in italiano realizzata con un bel template ~~rubato~~ preso in prestito dalla [community source](https://github.com/Aidoku-Community/sources).
 Ho modificato un paio di cose rispetto al template originale in `models` e in `imp` e adesso tutti i moduli mostrano correttamente i vari manga quando viene chiamata la funzione `get_all_mangas`.
 Tutte le fonti che _NON_ ho realizzato/curato si trovano qui per uno di questi motivi:
