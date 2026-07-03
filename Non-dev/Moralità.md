@@ -1,6 +1,5 @@
 # Ebbene signori, ecco una presa di posizione.
 
----
 Riassunto: Tutte le fonti che sono presenti su questa repo rimarranno disponibili, salvo casi eccezionali, anche se ai Team non dovesse andare bene.
 ---
 
