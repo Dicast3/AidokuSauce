@@ -1,10 +1,10 @@
-### Futuro (Pizzareader based)
+## Pizzareader based
 - [x] Nei filtri, al posto di "Autore" correggere con "Valutazione"
 - [ ] Fare in modo che i filtri di genere non si rompano
 - [x] Fare in modo che si veda lo status per tutti i manga, se presente
 - [ ] Aggiungere filtri STATUS nella barra di ricerca
 
-### Futuro (Madara e Mangathemesia based)
+## Madara based
 #### ShinobiScans
 - [x] Realizzare il modulo
 - [x] Realizzare filtri
@@ -25,6 +25,8 @@ Dovrei anche decidere se includere <sub>(e in quel caso implementare un modo per
 #### Rama Oriental Fansub
 - [x] Realizzare il modulo
 - [x] Aggiustare il modulo (alcuni capitoli si caricano, altri no, altre volte leggi un singolo capitolo e te li segna tutti)
+
+## Mangathemesia based
 #### Studiocomix
 - [ ] Realizzare il modulo (login necessario non implementato su Madara)
 #### Aine team
@@ -35,7 +37,7 @@ Dovrei anche decidere se includere <sub>(e in quel caso implementare un modo per
 - [ ] Aggiornare i filtri per genere (devo prendere gli id dal sito per ogni tag (id:1056 name:azione), una cosa di questo tipo)
 - [ ] Modificare la home e aggiungere filtri genere
 
-### Futuro (altri)
+## Altri
 - [ ] Realizzare il modulo per JJTR
 - [ ] Realizzare il modulo per Digital Team
 - [ ] Realizzare il modulo per AGC
